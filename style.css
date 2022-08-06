@@ -1,0 +1,18 @@
+.navbargauche{
+    display: inline-block;
+}
+p{
+    color: blue ;
+    text-align: center;
+
+
+    text-decoration: none;
+}
+input{
+width: 75% ;
+border: 1px solid cornflowerblue;
+
+}
+form{
+margin-left: 20%;
+}
